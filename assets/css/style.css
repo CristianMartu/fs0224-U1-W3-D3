@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   padding: 2rem;
   width: 100%;
@@ -17,10 +20,16 @@ main {
 main div {
   text-align: center;
   width: 40rem;
+  background-color: rgb(205, 202, 202);
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 2rem;
 }
 main div p {
-  margin: 2rem 0 0.5rem;
-  background-color: rgb(205, 202, 202);
+  margin: 1rem 0 0.5rem;
+}
+main div button {
+  margin-bottom: 1rem;
 }
 h1 {
   text-align: center;
