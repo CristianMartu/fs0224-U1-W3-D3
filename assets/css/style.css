@@ -1,0 +1,27 @@
+body {
+  padding: 2rem;
+  width: 100%;
+}
+#form-box {
+  width: 40rem;
+  margin-inline: auto;
+}
+
+#form-box input {
+  width: 80%;
+}
+main {
+  width: 40rem;
+  margin-inline: auto;
+}
+main div {
+  text-align: center;
+  width: 40rem;
+}
+main div p {
+  margin: 2rem 0 0.5rem;
+  background-color: rgb(205, 202, 202);
+}
+h1 {
+  text-align: center;
+}
